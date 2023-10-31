@@ -1,0 +1,3 @@
+CREATE SEQUENCE product_sequence
+INCREMENT 1
+START 001;
